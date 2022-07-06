@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "Ron",
+        "Branch": "Computer",
+        "Interest": "Programming"
+    },
+    {
+        "Name": "Harry",
+        "Branch": "Literature",
+        "Interest": "Books"
+    },
+    {
+        "Name": "Thomas",
+        "Branch": "Mathematics",
+        "Interest": "Solving Equation"
+    }
+]
