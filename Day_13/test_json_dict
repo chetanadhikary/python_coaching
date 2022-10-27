@@ -1,0 +1,17 @@
+{
+    "Ron": {
+        "Name": "Ron",
+        "Branch": "Computer",
+        "Interest": "Programming"
+    },
+    "Harry": {
+        "Name": "Harry",
+        "Branch": "Literature",
+        "Interest": "Books"
+    },
+    "Thomas": {
+        "Name": "Thomas",
+        "Branch": "Mathematics",
+        "Interest": "Solving Equation"
+    }
+}
